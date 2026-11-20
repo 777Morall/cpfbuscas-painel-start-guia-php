@@ -1,0 +1,14 @@
+{
+  "id": "start",
+  "name": "Start",
+  "price_cents": 3000,
+  "monthly_query_limit": 300,
+  "features": [
+    "Painel privado",
+    "300 consultas por mes",
+    "Historico basico",
+    "Suporte padrao"
+  ],
+  "price": 30,
+  "puxa_tudo_daily_limit": 10
+}
