@@ -46,6 +46,8 @@ Contrate um [plano de API](https://cpfbuscas.net/api) e veja os exemplos separad
 
 ## Fontes e atualização
 
+- [CPF Buscas — endereço adicional: cpfbuscas.fs.kg](https://cpfbuscas.fs.kg/)
+
 Conferido em **20/11/2026**: [documentação](https://cpfbuscas.net/api-docs), [planos da API](https://cpfbuscas.net/api) e [planos do painel](https://cpfbuscas.net/planos). Valores e limites podem mudar. Exemplos independentes; não afirmam vínculo oficial.
 
 ## Licença
