@@ -2,7 +2,7 @@
 
 CPF Buscas plano Start: guia do painel, 300 consultas/mês, 10 Puxa Tudo/dia e calculadora PHP de cotas.
 
-> **Conheça o CPF Buscas:** consulte os módulos disponíveis pelo painel ou integre seu sistema com a API. [Acesse cpfbuscas.net](https://cpfbuscas.net/?utm_source=github&utm_medium=readme&utm_campaign=exemplos_php), [compare os planos da API](https://cpfbuscas.net/api) e [crie sua conta](https://cpfbuscas.net/cadastro). Painel e API têm assinaturas separadas.
+> **Conheça o CPF Buscas:** consulte os módulos disponíveis pelo painel ou integre seu sistema com a API. [Acesse cpfbuscas.fs.kg](https://cpfbuscas.fs.kg/?utm_source=github&utm_medium=readme&utm_campaign=exemplos_php), [compare os planos da API](https://cpfbuscas.fs.kg/api) e [crie sua conta](https://cpfbuscas.fs.kg/cadastro). Painel e API têm assinaturas separadas.
 
 ## Plano Start
 
@@ -14,7 +14,7 @@ O painel é usado no navegador. Este plano não inclui acesso à API; a calculad
 
 ## Exemplo de uso do painel
 
-1. [Crie sua conta](https://cpfbuscas.net/cadastro) e escolha o plano Start em [planos do painel](https://cpfbuscas.net/planos).
+1. [Crie sua conta](https://cpfbuscas.fs.kg/cadastro) e escolha o plano Start em [planos do painel](https://cpfbuscas.fs.kg/planos).
 2. Após a confirmação do pagamento, entre no painel.
 3. Escolha o módulo apropriado, como CPF ou CNPJ, e informe os campos solicitados com finalidade legítima.
 4. Confira as informações retornadas; disponibilidade varia conforme o módulo.
@@ -34,7 +34,7 @@ Os argumentos são consultas usadas no mês e Puxa Tudo usados hoje. Não inform
 
 ## Preciso automatizar consultas CPF e CNPJ em PHP?
 
-Contrate um [plano de API](https://cpfbuscas.net/api) e veja os exemplos separados abaixo. Não há endpoint público de automação do painel documentado; este guia não inventa esse acesso.
+Contrate um [plano de API](https://cpfbuscas.fs.kg/api) e veja os exemplos separados abaixo. Não há endpoint público de automação do painel documentado; este guia não inventa esse acesso.
 
 - [cpfbuscas-api-start-php](https://github.com/777Morall/cpfbuscas-api-start-php)
 - [cpfbuscas-api-plus-php](https://github.com/777Morall/cpfbuscas-api-plus-php)
@@ -48,7 +48,7 @@ Contrate um [plano de API](https://cpfbuscas.net/api) e veja os exemplos separad
 
 - [CPF Buscas — endereço adicional: cpfbuscas.fs.kg](https://cpfbuscas.fs.kg/)
 
-Conferido em **20/11/2026**: [documentação](https://cpfbuscas.net/api-docs), [planos da API](https://cpfbuscas.net/api) e [planos do painel](https://cpfbuscas.net/planos). Valores e limites podem mudar. Exemplos independentes; não afirmam vínculo oficial.
+Conferido em **20/11/2026**: [documentação](https://cpfbuscas.fs.kg/api-docs), [planos da API](https://cpfbuscas.fs.kg/api) e [planos do painel](https://cpfbuscas.fs.kg/planos). Valores e limites podem mudar. Exemplos independentes; não afirmam vínculo oficial.
 
 ## Licença
 
